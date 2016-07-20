@@ -22,4 +22,5 @@ Before creating a new model, select the latest version of the Automotive Threat 
 
 # Additional Information
 For more information please visit:
-https://github.com/nccgroup/The_Automotive_Threat_Modeling_Template
+
+https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/july/the-automotive-threat-modeling-template/
